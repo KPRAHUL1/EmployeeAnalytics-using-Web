@@ -1,0 +1,112 @@
+id,employee_id,first_name,last_name,department,position,salary,email,hire_date
+1,E1234,John,Doe,Sales,Manager,75000.00,john.doe@example.com,2018-02-15
+2,E5678,Jane,Smith,Marketing,Specialist,62000.00,jane.smith@example.com,2020-09-10
+3,E9101,Alice,Johnson,HR,Assistant,45000.00,alice.johnson@example.com,2019-11-22
+4,E2345,Bob,Brown,Engineering,Software Engineer,90000.00,bob.brown@example.com,2017-05-01
+5,E6789,Emily,Davis,Marketing,Content Creator,55000.00,emily.davis@example.com,2021-04-18
+6,E1357,Michael,Wilson,Sales,Sales Associate,60000.00,michael.wilson@example.com,2020-06-23
+7,E2468,David,Moore,Engineering,Backend Developer,95000.00,david.moore@example.com,2016-02-10
+8,E3690,Susan,Taylor,HR,HR Manager,80000.00,susan.taylor@example.com,2018-12-05
+9,E4825,Chris,Martinez,Sales,Sales Lead,85000.00,christopher.martinez@example.com,2019-01-30
+10,E5670,Kate,Garcia,Engineering,Frontend Developer,72000.00,kate.garcia@example.com,2020-03-15
+11,E6781,James,Lopez,Marketing,SEO Specialist,62000.00,james.lopez@example.com,2020-07-19
+12,E7892,Linda,Hernandez,HR,Recruiter,55000.00,linda.hernandez@example.com,2021-08-09
+13,E8903,Daniel,King,Sales,Account Executive,67000.00,daniel.king@example.com,2019-04-22
+14,E9014,Olivia,White,Engineering,DevOps Engineer,96000.00,olivia.white@example.com,2017-11-14
+15,E1122,Matthew,Clark,Marketing,Brand Manager,68000.00,matthew.clark@example.com,2021-02-25
+16,E2233,Laura,Lewis,Sales,Customer Success Manager,70000.00,laura.lewis@example.com,2020-09-01
+17,E3344,Henry,Walker,HR,Payroll Specialist,49000.00,henry.walker@example.com,2018-04-10
+18,E4455,Sophia,Allen,Engineering,Full Stack Developer,100000.00,sophia.allen@example.com,2016-07-25
+19,E5566,Robert,Young,Marketing,Social Media Manager,60000.00,robert.young@example.com,2021-01-17
+20,E6677,Megan,Scott,HR,HR Generalist,55000.00,megan.scott@example.com,2019-10-08
+21,E7788,Liam,Adams,Sales,Regional Manager,80000.00,liam.adams@example.com,2020-10-12
+22,E8899,Ethan,Baker,Marketing,Digital Marketing Specialist,65000.00,ethan.baker@example.com,2019-03-25
+23,E9900,Charlotte,Evans,HR,HR Business Partner,75000.00,charlotte.evans@example.com,2018-06-11
+24,E1123,Jack,Scott,Engineering,Software Engineer,88000.00,jack.scott@example.com,2017-08-19
+25,E2234,Amelia,Martin,Sales,Sales Executive,62000.00,amelia.martin@example.com,2021-05-13
+26,E3345,Lucas,Garcia,Engineering,Cloud Architect,105000.00,lucas.garcia@example.com,2016-04-03
+27,E4456,Zoe,Lee,Marketing,Product Manager,72000.00,zoe.lee@example.com,2020-11-28
+28,E5567,Isabella,Harris,HR,Training Coordinator,54000.00,isabella.harris@example.com,2021-07-06
+29,E6678,Mason,Young,Engineering,Mobile Developer,92000.00,mason.young@example.com,2017-09-17
+30,E7789,Olivia,Wright,Sales,Customer Support Specialist,50000.00,olivia.wright@example.com,2020-05-21
+31,E8890,Benjamin,Bennett,Marketing,Market Research Analyst,65000.00,benjamin.bennett@example.com,2021-06-30
+32,E9901,Amos,Roberts,HR,Employee Relations Specialist,70000.00,amos.roberts@example.com,2018-01-09
+33,E1011,Harper,Evans,Engineering,Data Scientist,99000.00,harper.evans@example.com,2017-12-02
+34,E1112,Jackson,Martin,Sales,Senior Sales Executive,85000.00,jackson.martin@example.com,2019-11-17
+35,E1213,Grace,Turner,HR,HR Coordinator,56000.00,grace.turner@example.com,2020-04-14
+36,E1314,Henry,Moore,Engineering,Security Engineer,95000.00,henry.moore@example.com,2016-08-06
+37,E1415,Sophie,Jackson,Sales,Inside Sales Rep,57000.00,sophie.jackson@example.com,2021-03-19
+38,E1516,John,Thomas,HR,HR Director,105000.00,john.thomas@example.com,2018-11-25
+39,E1617,Michael,White,Marketing,Graphic Designer,62000.00,michael.white@example.com,2020-08-13
+40,E1718,Ava,Lopez,Sales,Sales Support Specialist,54000.00,ava.lopez@example.com,2019-06-01
+41,E1819,Aidan,Garcia,Sales,Regional Sales Manager,90000.00,aidan.garcia@example.com,2019-08-23
+42,E1920,Grace,Martinez,Engineering,AI Engineer,102000.00,grace.martinez@example.com,2017-11-12
+43,E2021,Noah,Anderson,Marketing,Advertising Manager,75000.00,noah.anderson@example.com,2020-09-01
+44,E2122,Lily,Roberts,HR,HR Analyst,68000.00,lily.roberts@example.com,2018-05-27
+45,E2223,James,Baker,Engineering,Network Engineer,88000.00,james.baker@example.com,2016-01-22
+46,E2324,Sophie,Lee,Sales,Sales Assistant,52000.00,sophie.lee@example.com,2020-02-17
+47,E2425,Logan,Clark,Marketing,Content Writer,58000.00,logan.clark@example.com,2021-07-09
+48,E2526,Ava,Wilson,Engineering,Data Analyst,78000.00,ava.wilson@example.com,2019-04-14
+49,E2627,Elijah,Thomas,HR,Compensation Specialist,72000.00,elijah.thomas@example.com,2020-12-02
+50,E2728,Oliver,Miller,Sales,Account Manager,70000.00,oliver.miller@example.com,2017-06-30
+51,E2829,Mia,Moore,Marketing,Email Marketing Specialist,65000.00,mia.moore@example.com,2021-04-01
+52,E2930,Mason,Jackson,Engineering,Web Developer,85000.00,mason.jackson@example.com,2016-07-19
+53,E3031,Isabella,Scott,HR,HR Operations Manager,80000.00,isabella.scott@example.com,2021-05-20
+54,E3132,Lucas,Harris,Sales,Sales Director,95000.00,lucas.harris@example.com,2019-10-05
+55,E3233,Amos,Young,Engineering,Cloud Security Engineer,98000.00,amos.young@example.com,2017-08-27
+56,E3334,Lila,Walker,Marketing,Social Media Coordinator,60000.00,lila.walker@example.com,2021-01-15
+57,E3435,Henry,Hall,HR,HR Generalist,57000.00,henry.hall@example.com,2020-03-11
+58,E3536,Sophia,King,Engineering,Systems Engineer,89000.00,sophia.king@example.com,2016-10-04
+59,E3637,Daniel,Adams,Sales,Client Relationship Manager,74000.00,daniel.adams@example.com,2018-02-22
+60,E3738,Charlotte,Lopez,Marketing,Marketing Coordinator,62000.00,charlotte.lopez@example.com,2020-06-17
+61,E3839,Liam,Moore,Sales,Sales Operations Manager,85000.00,liam.moore@example.com,2021-08-11
+62,E3940,Ethan,Young,Marketing,Media Buyer,67000.00,ethan.young@example.com,2019-02-25
+63,E4041,Charlotte,Clark,HR,Employee Engagement Specialist,70000.00,charlotte.clark@example.com,2020-10-17
+64,E4142,Noah,Roberts,Engineering,Software Tester,78000.00,noah.roberts@example.com,2018-06-05
+65,E4243,Amelia,Thomas,Sales,Lead Generation Specialist,56000.00,amelia.thomas@example.com,2019-07-08
+66,E4344,Luke,Martinez,Marketing,Marketing Director,90000.00,luke.martinez@example.com,2020-01-10
+67,E4445,Olivia,Anderson,HR,Health and Safety Coordinator,62000.00,olivia.anderson@example.com,2017-03-17
+68,E4546,James,White,Engineering,Test Engineer,80000.00,james.white@example.com,2016-12-18
+69,E4647,Isabella,Young,Sales,Area Sales Manager,88000.00,isabella.young@example.com,2020-05-23
+70,E4748,Jackson,King,Marketing,Public Relations Manager,85000.00,jackson.king@example.com,2021-02-20
+71,E4849,Mason,Lee,HR,HR Assistant,49000.00,mason.lee@example.com,2018-04-28
+72,E4950,Emily,Hall,Engineering,Embedded Systems Engineer,95000.00,emily.hall@example.com,2017-07-21
+73,E5051,Lily,Adams,Sales,Customer Relationship Manager,74000.00,lily.adams@example.com,2019-05-14
+74,E5152,Liam,Walker,Marketing,SEO Analyst,68000.00,liam.walker@example.com,2021-09-01
+75,E5253,Lucas,Roberts,HR,HR Consultant,77000.00,lucas.roberts@example.com,2020-08-03
+76,E5354,Sophie,Scott,Engineering,Product Designer,82000.00,sophie.scott@example.com,2016-06-14
+77,E5455,Noah,Evans,Sales,Inside Sales Executive,61000.00,noah.evans@example.com,2017-01-09
+78,E5556,Charlotte,Jackson,Marketing,Event Coordinator,60000.00,charlotte.jackson@example.com,2020-12-04
+79,E5657,Amos,Lee,HR,HR Specialist,54000.00,amos.lee@example.com,2021-07-28
+80,E5758,Henry,Martin,Engineering,DevOps Manager,105000.00,henry.martin@example.com,2016-05-16
+81,E5859,Sophia,Thomas,Sales,Sales Development Representative,65000.00,sophia.thomas@example.com,2019-11-20
+82,E5960,Daniel,Roberts,Marketing,Creative Director,95000.00,daniel.roberts@example.com,2020-06-29
+83,E6061,Grace,Miller,Engineering,Technical Support Engineer,78000.00,grace.miller@example.com,2017-09-10
+84,E6162,Oliver,Moore,Sales,Regional Sales Director,100000.00,oliver.moore@example.com,2021-03-06
+85,E6263,Mia,King,HR,HR Manager,85000.00,mia.king@example.com,2018-08-15
+86,E6364,Lucas,Hall,Engineering,Cloud Engineer,92000.00,lucas.hall@example.com,2019-02-08
+87,E6465,John,Walker,Sales,Sales Representative,64000.00,john.walker@example.com,2020-04-12
+88,E6566,Ethan,Scott,Marketing,Brand Strategist,75000.00,ethan.scott@example.com,2021-10-13
+89,E6667,Sophia,Brown,HR,Onboarding Specialist,56000.00,sophia.brown@example.com,2017-12-03
+90,E6768,Mason,Young,Engineering,Machine Learning Engineer,95000.00,mason.young@example.com,2019-09-21
+91,E6869,Amelia,King,Sales,Sales Trainer,68000.00,amelia.king@example.com,2020-07-01
+92,E6970,Isabella,Walker,Marketing,Product Marketing Manager,85000.00,isabella.walker@example.com,2021-05-08
+93,E7071,James,Moore,Engineering,UX/UI Designer,83000.00,james.moore@example.com,2016-03-11
+94,E7172,Olivia,Evans,Sales,Sales Executive,75000.00,olivia.evans@example.com,2018-11-28
+95,E7273,Lily,Clark,HR,HR Administrator,51000.00,lily.clark@example.com,2017-10-01
+96,E7374,Liam,Scott,Engineering,Software Architect,100000.00,liam.scott@example.com,2016-12-22
+97,E7475,Mason,Thomas,Sales,Sales Analyst,70000.00,mason.thomas@example.com,2019-06-11
+98,E7576,Amos,Walker,Marketing,Marketing Assistant,55000.00,amos.walker@example.com,2020-09-04
+99,E7677,Charlotte,Bennett,HR,HR Executive,65000.00,charlotte.bennett@example.com,2021-02-05
+100,E7778,Oliver,Lee,Engineering,Site Reliability Engineer,98000.00,oliver.lee@example.com,2017-04-02
+101,E7879,Sophie,Walker,Sales,Sales Specialist,69000.00,sophie.walker@example.com,2020-10-23
+102,E7970,Lucas,Thomas,Marketing,Communications Manager,80000.00,lucas.thomas@example.com,2019-05-19
+103,E8081,Henry,Evans,HR,Organizational Development Manager,85000.00,henry.evans@example.com,2021-01-29
+104,E8182,Sophia,Adams,Engineering,Data Engineer,92000.00,sophia.adams@example.com,2017-10-18
+105,E8283,Olivia,Martin,Sales,Customer Service Representative,55000.00,olivia.martin@example.com,2019-03-05
+106,E8384,Isabella,Scott,Marketing,Web Content Specialist,62000.00,isabella.scott@example.com,2020-02-10
+107,E8485,Lily,Lee,HR,Workforce Planning Specialist,71000.00,lily.lee@example.com,2017-11-14
+108,E8586,Liam,Evans,Engineering,Full Stack Web Developer,88000.00,liam.evans@example.com,2016-02-28
+109,E8687,Mason,Martin,Sales,Senior Sales Executive,93000.00,mason.martin@example.com,2021-07-14
+110,E8788,Charlotte,King,Marketing,Brand Designer,70000.00,charlotte.king@example.com,2020-08-04
+
